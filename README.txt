@@ -1,6 +1,5 @@
 pip install docxpy
 pip install pdfminer
-sudo apt-get install libreoffice
 
 进入文件夹>>>
 运行单个文件：
